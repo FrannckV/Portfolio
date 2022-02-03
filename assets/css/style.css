@@ -1075,6 +1075,7 @@ section .container {
   position: absolute;
   top: 10px;
   left: 30%;
+  margin-left: -68%;
 }
 
 /*--------------------------------------------------------------
